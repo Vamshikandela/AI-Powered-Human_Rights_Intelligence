@@ -152,5 +152,4 @@ Kandela Vamshi
 
 B.Sc (Data Science) | AI & Data Science Enthusiast
 
-GitHub
-LinkedIn
+LinkedIn:  https://www.linkedin.com/in/kandela-vamshi-2b4457258
