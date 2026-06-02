@@ -24,7 +24,7 @@ The system retrieves relevant legal context from documents and generates accurat
 * 🔍 Semantic legal document retrieval
 * 🤖 AI-powered legal question answering
 * ⚖️ Human Rights focused legal assistant
-* 🇮🇳 Indian Constitution article support
+*  Indian Constitution article support
 * 🌍 UDHR (Universal Declaration of Human Rights) support
 * 🧠 Gemini-powered response generation
 * 📚 FAISS vector database integration
