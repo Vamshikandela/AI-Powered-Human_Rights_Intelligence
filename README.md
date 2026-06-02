@@ -1,4 +1,4 @@
-# -Human_Rights_Intelligence
+# Human_Rights_Intelligence
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B)
 ![LangChain](https://img.shields.io/badge/Framework-LangChain-green)
